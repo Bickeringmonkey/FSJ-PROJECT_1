@@ -12,7 +12,7 @@
         <li>Add a citation property to at least one quote object</li>
         <li>Add a year property to at least one quote object</li>
     </ol>
- </li>
+ </li></br>
  <li><strong>Create a getRandomQuote() function</strong>
     <ol>
     <li>Create a function called getRandomQuote.</li>
