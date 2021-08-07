@@ -63,4 +63,4 @@
     </li>
 </ol>
 <h2>Screen Shot</h2>
-<img src= "img/FSJ1_screenshot.png">
+<img src= "js/FSJ1_screenshot.png">
