@@ -36,11 +36,7 @@
         <li>If the random quote object has a citation property, concatenate a span element with the class "citation" to the HTML string.</li>
         <li>If the random quote object has a year property, concatenate a span element with the class "year" to the HTML string.</li>
     </ol>
-Use the following code snippet as a guide for what the HTML string should look like with the added "citation" and "year" <span> elements (like earlier, omit the second closing </p> tag for now):
-<pre><p class="quote"> A random quote </p>
-<p class="source"> quote source
-  <span class="citation"> quote citation </span>
-  <span class="year"> quote year </span>
-</p></pre>
  </li>
+ <li>Below the if statements, complete the string by concatenating a closing p tag to the HTML string. This is the closing tag for the second paragraph with the class source.</li></br>
+ <li>Lastly, set the printQuote function to return the full HTML string displaying a random quote.</li></br>
  </ol>
