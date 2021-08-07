@@ -41,16 +41,24 @@
  <li>Lastly, set the printQuote function to return the full HTML string displaying a random quote.</li></br>
  </ol>
 <h2>Extra Credit</h2>
-<li><strong>Additional quote object property</strong>
-<p>Printed quotes display an additional property that adds context. For example, a tags property could include a list of "tags" like "humor", "business", or "politics" to categorize a quote.</p>
-    <ol>
-        <li>Add at least one extra property to at least one quote object.</li>
-        <li>Add the new property to the HTML string similarly to how you added the “year” and “citation” properties.</li>
-    </ol>
-</li></br>
-<li><strong>Random background colors</strong>
-<p>When a new quote prints to the page, the background color changes to a random color.</p>
+<ol>
+    <li><strong>Additional quote object property</strong>
+    <p>Printed quotes display an additional property that adds context. For example, a tags property could include a list of "tags" like "humor", "business", or "politics" to categorize a quote.</p>
+        <ol>
+            <li>Add at least one extra property to at least one quote object.</li>
+            <li>Add the new property to the HTML string similarly to how you added the “year” and “citation” properties.</li>
+        </ol>
+    </li></br>
+    <li><strong>Random background colors</strong>
+    <p>When a new quote prints to the page, the background color changes to a random color.</p>
+        <ul>
+            <li>Create a function that updates the background color to a random color.</li>
+        </ul>
+    </li></br>
+    <li><strong>Auto-refreshed quotes</strong>
+    <p>The quote on the page automatically updates at regular intervals.</p>
     <ul>
-        <li>Create a function that updates the background color to a random color.</li>
+        <li>Create a timing function with the setInterval() method to print a new quote to the page at regular intervals, like every 10 to 20 seconds.</li>
     </ul>
-</li>
+    </li>
+</ol>
