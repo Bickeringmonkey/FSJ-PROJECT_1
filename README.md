@@ -23,13 +23,13 @@
  <li><strong>Create the printQuote() function</strong> - You will program the printQuote function to perform three tasks: call the getRandomQuote function, use the returned quote object to build a string of HTML and quote properties, then use that string to display a random quote in the browser.
  <ol>
  <li>In the body of the printQuote function, create a variable to store a random quote object from the getRandomQuote() function.</li>
- <li>Create another variable to store the HTML string. Set it equal to a string containing two 'p' elements.
+ <li>Create another variable to store the HTML string. Set it equal to a string containing two 'p' elements.</br>
  <ol>
  <li>The first p element should have a class equal to “quote”, and the random quote object’s .quote property nested between the opening and closing p tags.</li>
  <li>The second p element should have a class equal to “source”, and the random quote object’s .source property nested between the tags.</li>
  </ol>
  </li>
  </ol>
- </li>
+ </li></br>
  <li><strong>Create two separate if statements below the variables.</strong></li>
  </ol>
