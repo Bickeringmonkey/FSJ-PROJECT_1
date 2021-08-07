@@ -40,3 +40,17 @@
  <li>Below the if statements, complete the string by concatenating a closing p tag to the HTML string. This is the closing tag for the second paragraph with the class source.</li></br>
  <li>Lastly, set the printQuote function to return the full HTML string displaying a random quote.</li></br>
  </ol>
+<h2>Extra Credit</h2>
+<li><strong>Additional quote object property</strong>
+<p>Printed quotes display an additional property that adds context. For example, a tags property could include a list of "tags" like "humor", "business", or "politics" to categorize a quote.</p>
+    <ol>
+        <li>Add at least one extra property to at least one quote object.</li>
+        <li>Add the new property to the HTML string similarly to how you added the “year” and “citation” properties.</li>
+    </ol>
+</li></br>
+<li><strong>Random background colors</strong>
+<p>When a new quote prints to the page, the background color changes to a random color.</p>
+    <ul>
+        <li>Create a function that updates the background color to a random color.</li>
+    </ul>
+</li>
