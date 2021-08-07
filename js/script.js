@@ -85,6 +85,7 @@ console.log(getRandomQuote());
 
 /***
  * `ranColor` function generates a random hex number each time the function is called in the loop and ouputs the result as an Hex number i.e #5d5d5d;
+ * code for random color change sourced from https://www.tutorialspoint.com/changing-color-randomly-in-javascript 
 ***/
 
 function ranColor() {
