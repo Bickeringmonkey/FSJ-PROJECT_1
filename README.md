@@ -26,8 +26,10 @@
  <li>Create another variable to store the HTML string. Set it equal to a string containing two 'p' elements.
  <ol>
  <li>The first p element should have a class equal to “quote”, and the random quote object’s .quote property nested between the opening and closing p tags.</li>
+ <li>The second p element should have a class equal to “source”, and the random quote object’s .source property nested between the tags.</li>
  </ol>
  </li>
  </ol>
  </li>
+ <li><strong>Create two separate if statements below the variables.</strong></li>
  </ol>
