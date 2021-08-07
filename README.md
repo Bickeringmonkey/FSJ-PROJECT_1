@@ -25,7 +25,7 @@
  <li>In the body of the printQuote function, create a variable to store a random quote object from the getRandomQuote() function.</li>
  <li>Create another variable to store the HTML string. Set it equal to a string containing two 'p' elements.
  <ol>
- <li>The first <p> element should have a class equal to “quote”, and the random quote object’s .quote property nested between the opening and closing <p> tags.</li>
+ <li>The first &60;p&62; element should have a class equal to “quote”, and the random quote object’s .quote property nested between the opening and closing &60;p&62; tags.</li>
  </ol>
  </li>
  </ol>
