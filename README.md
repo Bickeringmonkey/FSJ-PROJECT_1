@@ -4,8 +4,8 @@
  <h2>Instruction</h2>
  <p>The Random Quote Generator must have the following included.</p>
  <ol>
- <li>Create an array of objects to store data for your quotes</li>
- <li>Add data to your quote strings
+ <li><strong>Create an array of objects to store data for your quotes</strong></li>
+ <li><strong>Add data to your quote strings</strong>
     <ol>
         <li>quote - <i>string</i> - the actual quote</li>
         <li>source - <i>string</i> - the person or character who said it</li> 
@@ -13,7 +13,7 @@
         <li>Add a year property to at least one quote object</li>
     </ol>
  </li>
- <li>Create a getRandomQuote() function
+ <li><strong>Create a getRandomQuote() function</strong>
     <ol>
     <li>Create a function called getRandomQuote.</li>
     <li>In the function body, create a variable to store a random number ranging from zero to the index of the last item in the quotes array.</li>
