@@ -14,9 +14,11 @@
     </ol>
  </li>
  <li>Create a getRandomQuote() function
+    <ol>
     <li>Create a function called getRandomQuote.</li>
     <li>In the function body, create a variable to store a random number ranging from zero to the index of the last item in the quotes array.</li>
     <li>Lastly, the function should return a random quote object using the random number variable above and bracket notation on the quotes array.</li>
+    </ol>
  </li>
  <li><strong>Create the printQuote() function</strong> - You will program the printQuote function to perform three tasks: call the getRandomQuote function, use the returned quote object to build a string of HTML and quote properties, then use that string to display a random quote in the browser.</li>
  </ol>
