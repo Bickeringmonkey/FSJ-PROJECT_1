@@ -7,9 +7,10 @@
  <li>Add data to your quote strings
     <ol>
         <li>quote - <i>string</i> - the actual quote</li>
-        <li>source - <i>string</i> - the person or character who said it</li>
+        <li>source - <i>string</i> - the person or character who said it</li> 
+        <li>Add a citation property to at least one quote object</li>
+        <li>Add a year property to at least one quote object</li>
     </ol>
- <li>Add a citation property to at least one quote object</li>
- <li>Add a year property to at least one quote object</li>
  </li>
+ <li></li>
  </ol>
